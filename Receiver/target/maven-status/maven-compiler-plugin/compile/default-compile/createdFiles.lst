@@ -1,0 +1,5 @@
+com\ram\receiver\MessageReceiver.class
+com\ram\model\Orders.class
+com\ram\config\JMSConfiguration.class
+com\ram\model\Product.class
+com\ram\ReceiverApplication.class
